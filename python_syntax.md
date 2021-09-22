@@ -3,6 +3,7 @@
 ## Execute Python Syntax
 As we learned in the previous page, Python syntax can be executed by writing directly in the Command Line:
 ```python
+# adkajf;dskfas;dfj;sakjl
 >>> print("Hello, World!")
 Hello, World!
 ```
