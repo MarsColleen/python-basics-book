@@ -1,2 +1,2 @@
-# casefold\(\) Method
+# casefold Method
 
