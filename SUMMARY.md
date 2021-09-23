@@ -1,7 +1,6 @@
 # Table of contents
 
 * [这是第一个文件](README.md)
-* [FirstFile](firstfile.md)
 
 ## Python 教程 <a id="python-tutorial"></a>
 
@@ -19,7 +18,6 @@
 * [Python Data Types](python-tutorial/python-datatypes.md)
 * [Python Numbers](python-tutorial/python-numbers.md)
 * [Python Casting](python-tutorial/python-casting.md)
-* [Untitled](python-tutorial/untitled.md)
 * [Python Strings](python-tutorial/python-strings/README.md)
   * [Python Slicing Strings](python-tutorial/python-strings/python-strings-slicing.md)
   * [Python Modify Strings](python-tutorial/python-strings/python-strings-modify.md)
@@ -29,4 +27,17 @@
   * [Python Format Strings](python-tutorial/python-strings/python-strings-format-1.md)
   * [Python String Exercises](python-tutorial/python-strings/python-strings-exercises.md)
 * [Python Booleans](python-tutorial/python-booleans.md)
+* [Python Operators](python-tutorial/python-operators.md)
+* [Python Lists](python-tutorial/python-lists/README.md)
+  * [Python Access List Items](python-tutorial/python-lists/python-lists-access.md)
+  * [Python Change List Items](python-tutorial/python-lists/python-lists-change.md)
+  * [Python Add List Items](python-tutorial/python-lists/python-lists-add.md)
+  * [Python Remove List Items](python-tutorial/python-lists/python-lists-remove.md)
+  * [Python Loop Lists](python-tutorial/python-lists/python-lists-loop.md)
+  * [Python List Comprehension](python-tutorial/python-lists/python-lists-comprehension.md)
+  * [Python Sort Lists](python-tutorial/python-lists/python-lists-sort.md)
+  * [Python Copy Lists](python-tutorial/python-lists/python-lists-copy.md)
+  * [Python Join Lists](python-tutorial/python-lists/python-lists-join.md)
+  * [Python List Methods](python-tutorial/python-lists/python-lists-methods.md)
+  * [Python List Exercises](python-tutorial/python-lists/python-lists-exercises.md)
 
