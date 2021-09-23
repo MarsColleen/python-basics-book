@@ -6,4 +6,5 @@
 ## Python 教程 <a id="python-tutorial"></a>
 
 * [Python 教程](python-tutorial/python-tutorial.md)
+* [Python 介绍](python-tutorial/python-intro.md)
 
