@@ -1,2 +1,2 @@
-# Python Comments
+# Python 注释
 

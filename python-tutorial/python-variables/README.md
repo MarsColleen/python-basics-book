@@ -1,2 +1,2 @@
-# Python Variables
+# Python 变量
 
