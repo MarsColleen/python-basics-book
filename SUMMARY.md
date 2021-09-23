@@ -19,6 +19,7 @@
 * [Python Numbers](python-tutorial/python-numbers.md)
 * [Python Casting](python-tutorial/python-casting.md)
 * [Python Strings](python-tutorial/python-strings/README.md)
+  * [Python Strings](python-tutorial/python-strings/python-strings.md)
   * [Python Slicing Strings](python-tutorial/python-strings/python-strings-slicing.md)
   * [Python Modify Strings](python-tutorial/python-strings/python-strings-modify.md)
   * [Python String Concatenation](python-tutorial/python-strings/python-strings-concatenation.md)
