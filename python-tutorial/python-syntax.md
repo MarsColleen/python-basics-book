@@ -1,2 +1,2 @@
-# Python Syntax
+# Python 语法
 

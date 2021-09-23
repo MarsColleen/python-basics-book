@@ -7,7 +7,7 @@
 * [Python 教程](python-tutorial/python-tutorial.md)
 * [Python 介绍](python-tutorial/python-intro.md)
 * [Python 入门](python-tutorial/python-getstarted.md)
-* [Python Syntax](python-tutorial/python-syntax.md)
+* [Python 语法](python-tutorial/python-syntax.md)
 * [Python Comments](python-tutorial/python-comments.md)
 * [Python Variables](python-tutorial/python-variables/README.md)
   * [Python Variable Names](python-tutorial/python-variables/python-variables-names.md)
