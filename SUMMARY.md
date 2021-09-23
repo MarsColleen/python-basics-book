@@ -1,6 +1,6 @@
 # Table of contents
 
-* [这是第一个文件](README.md)
+* [README](README.md)
 
 ## Python 教程 <a id="python-tutorial"></a>
 
@@ -40,4 +40,8 @@
   * [Python Join Lists](python-tutorial/python-lists/python-lists-join.md)
   * [Python List Methods](python-tutorial/python-lists/python-lists-methods.md)
   * [Python List Exercises](python-tutorial/python-lists/python-lists-exercises.md)
+* [Python Tuples](python-tutorial/python-tuples/README.md)
+  * [Python Unpack Tuples](python-tutorial/python-tuples/python-tuples-unpack.md)
+  * [Python Update Tuples](python-tutorial/python-tuples/python-tuples-update.md)
+  * [Python Access Tuple Items](python-tutorial/python-tuples/python-tuples-access.md)
 
