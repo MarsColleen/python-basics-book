@@ -31,6 +31,7 @@
 * [Python Booleans](python-tutorial/python-booleans.md)
 * [Python Operators](python-tutorial/python-operators.md)
 * [Python Lists](python-tutorial/python-lists/README.md)
+  * [Python Lists](python-tutorial/python-lists/python-lists.md)
   * [Python Access List Items](python-tutorial/python-lists/python-lists-access.md)
   * [Python Change List Items](python-tutorial/python-lists/python-lists-change.md)
   * [Python Add List Items](python-tutorial/python-lists/python-lists-add.md)
