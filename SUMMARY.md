@@ -24,7 +24,7 @@
   * [Python String Concatenation](python-tutorial/python-strings/python-strings-concatenation.md)
   * [Python Format Strings](python-tutorial/python-strings/python-strings-format.md)
   * [Python Escape Characters](python-tutorial/python-strings/python-strings-escape.md)
-  * [Python Format Strings](python-tutorial/python-strings/python-strings-format-1.md)
+  * [Python String Methods](python-tutorial/python-strings/python-strings-methods.md)
   * [Python String Exercises](python-tutorial/python-strings/python-strings-exercises.md)
 * [Python Booleans](python-tutorial/python-booleans.md)
 * [Python Operators](python-tutorial/python-operators.md)
