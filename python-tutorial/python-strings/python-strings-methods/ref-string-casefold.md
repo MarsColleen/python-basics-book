@@ -1,2 +1,1 @@
-# casefold\(\) Method
-
+# 字符串 casefold 方法
