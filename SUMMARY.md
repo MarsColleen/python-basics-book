@@ -16,7 +16,7 @@
   * [Python Output Variables](python-tutorial/python-variables/python-variables-output.md)
   * [Python Global Variables](python-tutorial/python-variables/python-variables-global.md)
   * [Python Variable Exercises](python-tutorial/python-variables/python-variables-exercises.md)
-* [Python Data Types](python-tutorial/python-data-types.md)
+* [Python Data Types](python-tutorial/python-datatypes.md)
 * [Python Numbers](python-tutorial/python-numbers.md)
 * [Python Casting](python-tutorial/python-casting.md)
 * [Untitled](python-tutorial/untitled.md)
