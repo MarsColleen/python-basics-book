@@ -5,5 +5,5 @@
 
 ## Python 教程 <a id="python-tutorial"></a>
 
-* [123](python-tutorial/123.md)
+* [Python 教程](python-tutorial/python-tutorial.md)
 
