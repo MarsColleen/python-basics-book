@@ -10,6 +10,7 @@
 * [Python 语法](python-tutorial/python-syntax.md)
 * [Python 注释](python-tutorial/python-comments.md)
 * [Python 变量](python-tutorial/python-variables/README.md)
+  * [Python Variables](python-tutorial/python-variables/python-variables.md)
   * [Python Variable Names](python-tutorial/python-variables/python-variables-names.md)
   * [Python Variables - Assign Multiple Values](python-tutorial/python-variables/python-variables-multiple.md)
   * [Python Output Variables](python-tutorial/python-variables/python-variables-output.md)
