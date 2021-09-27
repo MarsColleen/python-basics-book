@@ -43,9 +43,25 @@ x = b'Hello'|bytes
 x = bytearray(5)|bytearray
 x = memoryview(byte(5))|memoryview
 
+## 设置指定数据类型
+如果你想指定数据类型，你可以用对应的构造函数：
 
-
-
+实例|数据类型
+-|-
+x = str('Hello World')|str
+x = int(20)|int
+x = float(20.5)|float
+x = complex(1j)|complex
+x = list(('apple', 'banana', 'cherry'))|list
+x = tuple('apple', 'banana', 'cherry')|tuple
+x = range(6)|range
+x = dict('name'='John', 'age'=36)|dict
+x = set(('apple', 'banana', 'cherry'))|set
+x = frozenset(('apple', 'banana', 'cherry'))|frozenset
+x = bool(5)|bool
+x = bytes(5)|bytes
+x = bytearray(5)|bytearray
+x = memoryview(byte(5))|memoryview
 
 
 
