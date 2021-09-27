@@ -70,36 +70,9 @@ x = memoryview(byte(5))|memoryview
 
 
 
-学号|姓名|分数
--|:-:|-:
-小明|男|75
-小红|女|79
-小陆|男|92
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-<table>
-    <tr>
-        <td><a href="http://www.jd.com">123</a></td>
-        <td><b>456</b></td>
-    </tr>
-    <tr>
-        <td><i>123</i></td>
-        <td><font color="#ff00ff">456</font></td>
-    </tr>
-</table>
