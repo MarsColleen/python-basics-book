@@ -1,2 +1,2 @@
-x = 5 + 4j
-print(x)
+b = 'Hello world'
+print(b[-5:-2])
